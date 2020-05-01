@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828078099308",
+    "firebase_url": "https://catbox-d792c.firebaseio.com",
+    "project_id": "catbox-d792c",
+    "storage_bucket": "catbox-d792c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828078099308:android:8c14463f571d45cf070149",
+        "android_client_info": {
+          "package_name": "com.example.catbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828078099308-env0td175bp3ffvpivuu3okotefbsdvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catbox",
+            "certificate_hash": "12c336dff40e0b242e9dd615e0b27be301083d27"
+          }
+        },
+        {
+          "client_id": "828078099308-opsl7rctrqmao4uj2mhc6iddeh9dg4lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPRMqNWv0F0RZo-PMV8FoCgevub8EUXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828078099308-opsl7rctrqmao4uj2mhc6iddeh9dg4lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
